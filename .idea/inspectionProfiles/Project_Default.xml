@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="1" class="java.lang.String" itemvalue="grpcio" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="resampling.p12" />
+          <option value="resampling.p11" />
+          <option value="resampling.p21" />
+          <option value="resampling.p22" />
+          <option value="resampling.p00" />
+          <option value="resampling.p01" />
+          <option value="resampling.p02" />
+          <option value="resampling.p03" />
+          <option value="resampling.p10" />
+          <option value="resampling.p13" />
+          <option value="resampling.*" />
+          <option value="saveImage.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
